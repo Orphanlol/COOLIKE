@@ -8,11 +8,11 @@ These uselsess ploguns destroy the chromebook ur using this on.
   * Adds a button to toggle the 'Perfect idling' upgrade which makes cookies generate while the game is closed.
 
 ## How To Use (NOW BETTER THAN EVER, FREE 2 PLAY COKIE CLICKER)
-To use a plugin simply run the following in the developer console (make sure to update the name, the thing in the middle):
+To use a plugin simply run the following in the developer console (make sure to update the name, the thing in the front):
 ```javascript
-(function () {Game.LoadMod('https://www.jsdelivr.com/package/gh/Patheticlol/COOLIKE/Plugons/name.goofyahh.js')}());
+(function () {Game.LoadMod('https://www.jsdelivr.com/package/gh/Patheticlol/COOLIKE/Plugons/name.CoolikePlugons.js')}());
 ```
 Or you can use this bookmarklet:
 ```javascript
-javascript:(function () {Game.LoadMod('https://www.jsdelivr.com/package/gh/Patheticlol/COOLIKE/Plugons/name.goofyahh.js')}());
+javascript:(function () {Game.LoadMod('https://www.jsdelivr.com/package/gh/Patheticlol/COOLIKE/Plugons/name.CoolikePlugons.js')}());
 ```
